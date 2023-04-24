@@ -1,0 +1,131 @@
+.background{
+    display: flex;
+    fill: solid #ffffff;
+    width: 1918px;
+    height: 935px;
+    top: 938px;
+}
+.sidebar{
+    justify-content: left;
+    background-color: black;
+    width: 150px;
+    height: 100%;
+}
+.sidebar ul{
+    padding-inline-start: 0px;
+}
+.sidebar a{
+    color: #aaaaaa;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    margin-left: 16px;
+}
+.active{
+    color:#FFFFFF;
+}
+.menu{
+    width: 150px;
+    height: 44px;
+    padding-top: 14px;
+    border-bottom: 1px solid #aaaaaa;
+}
+
+.sidebar a:active{
+    color: #ffffff;
+}
+.sidebar li:hover{
+    background-color: #aaaaaa;
+    color: #ffffff;
+}
+.bgr{
+    justify-content: right;
+    width: 1768px;
+    height: 935px;
+    background-color: #ffffff;
+}
+#gr1{
+    width: 1510px;
+    height: 210px;
+    background: #efefef;
+    margin-left: 129px;
+    margin-top: 30px;
+}
+
+#gr2{
+    width: 470px;
+    height: 252px;
+    background: #FFFFFF;
+    margin-top: 40px;
+    margin-left: 129px;
+}
+h6{
+    width: 470px;
+    height: 28px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
+
+#footer{
+    width: 1768px;
+    height: 79px;
+    border-top: 1px solid #aaaaaa;
+    margin-top: 183px;
+}
+#footer p{
+    width: 125px;
+    height: 19px;   
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #3E3E3E;    
+    padding-left: 129px;
+}
+p{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+}
+#gr3{
+    width: 470px;
+    height: 252px;   
+    background: #FFFFFF; 
+    margin-top: 40px;
+    margin-left: 50px;
+}
+
+#gr4{
+    width: 470px;
+    height: 252px; 
+    background: #FFFFFF;  
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.chu{
+    padding-left: 144px;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    padding-top: 18px;
+}
+.icon{
+    float: left; 
+    position: relative; 
+    width: 128px; 
+    height: 128px; 
+    padding-top: 18px;
+}
